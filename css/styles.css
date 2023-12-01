@@ -44,3 +44,15 @@
         padding-left: 42px;
         border: 15px solid darkred;
 }
+
+
+.box-si{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    padding-top: 16px;
+    padding-right: 42px;
+    padding-bottom: 16px;
+    padding-left: 42px;
+    border: 15px solid darkred;}
