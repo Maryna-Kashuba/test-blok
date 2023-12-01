@@ -1,0 +1,46 @@
+/** {
+    box-sizing: border-box;
+}*   для кожного елемента на сторінці*/
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    padding-top: 16px;
+    padding-right: 42px;
+    padding-bottom: 16px;
+    padding-left: 42px;
+    border: 15px solid darkred;
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+.box-one{
+    width: 100px;
+        height: 100px;
+        background-color: blueviolet;
+        padding: 16px 42px 16px 42px;
+        border: 15px solid darkred;
+        border-radius: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        /*margin: 0 auto*/
+}
+.box-two{
+    width: 100px;
+        height: 100px;
+        background-color: blueviolet;
+        padding: 16px 42px;
+        border: 15px solid rgb(0, 44, 139);
+        border-radius: 10px;
+        margin: 10px;
+}
+.box-size{box-sizing: border-box;
+    width: 100px;
+        height: 100px;
+        background-color: blueviolet;
+        padding-top: 16px;
+        padding-right: 42px;
+        padding-bottom: 16px;
+        padding-left: 42px;
+        border: 15px solid darkred;
+}
